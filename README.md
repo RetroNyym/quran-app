@@ -1,5 +1,9 @@
 # PureQuran 📖
 
+> **EN:** A modern, clean, distraction-free Quran PWA — 114 surahs with
+> verse-by-verse audio, prayer times with adhan, qibla compass, daily verse
+> and weather. Free, no ads, no account.
+
 Ayetler, ezan vakitleri, kıble pusulası ve hava durumu — sade, hızlı, reklamsız **PWA**.
 
 🌐 **Canlı uygulama:** https://retro043.github.io/quran-app/
